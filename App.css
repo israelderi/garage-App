@@ -1,0 +1,77 @@
+.App {
+  text-align: center;
+}
+.titel{
+  font-size: 100px;
+  color: black;
+}
+.NewUser{
+  width: 250px;
+  height: 70px;
+  font-size: 40px;
+  background-color: rgb(77, 77, 245);
+  color: white;
+}
+.home{
+  margin: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.inputStyle{
+  width: 250px;
+  height: 50px;
+  border-radius: 15px;
+  color: blue;
+  text-align: center;
+}
+#selectStyle{
+  font-size: 30px;
+  width: 350px;
+  height: 60px;
+  border-radius: 15px;
+  color: blue;
+  text-align: center;
+}
+.radioinp{
+  height: 40px;
+  width: 100px;
+}
+.radioLabel{
+  font-size: 20px;
+}
+.add{
+  height: 50px;
+  width: 100px;
+  color: white;
+  background-color: rgb(75, 75, 243);
+  border-radius: 10px;
+}
+.CustomerPageButt{
+  margin: 10px;
+  height: 70px;
+  width: 300px;
+  font-size: 30px;
+  background-color: rgb(129, 129, 245);
+  border-radius: 10px;
+  color: white;
+}
+.faultButt{
+  margin: 10px;
+  height: 40px;
+  width: 80px;
+  background-color: rgb(129, 129, 245);
+  border-radius: 10px;
+  color: white;
+}
+
+.ClientDetails{
+  margin: 10px;
+  padding: 3px;
+  height: 130px;
+  width: 250px;
+  border: 2px solid black;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: whitesmoke;
+border-radius: 10px;
+}
